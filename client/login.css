@@ -1,0 +1,28 @@
+.root {
+    display    : flex;
+    align-items : center;
+    height     : 100vh;
+  }
+  .grid {
+    padding: 3em 2em;
+    color   : #18a190;
+  }
+  .gridItem {
+    padding: 3em 2em;
+    color   : #18a190;
+  }
+  .textField {
+    padding : '2em 0.5em';
+    margin-top  : '0.5em';
+    color      : #18a190;
+  }
+  .typoGraphy  {
+    display        : 'flex';
+    justify-content : 'flex-start';
+  }
+  .imageLeft{
+    display:flex;
+    flex-wrap:nowrap ;
+    align-items : center;
+    padding : 4em 4em 4em 0;
+  }
